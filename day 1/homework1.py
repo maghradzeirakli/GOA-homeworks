@@ -6,4 +6,4 @@ age = "var 14 wlis"
 
 height = " da var 174.2 sm"
 
-print((name + " " + surname + " " + (str(age) + " " + (str(height)))))
+print((name + " " + surname + " " + (age) + " " + (height)))
